@@ -1,7 +1,7 @@
 # TFNNScore
 Keras implementation of NNScore described in "Soft Computing Tools for Virtual Drug Discovery" by Daniel M Hagan and Martin T Hagan
 
-**Note that this Python code will not give the exact same results (although they are very similar) as our original Matlab code, this is** **because things such as the optimizer we used in Matlab are not currently implemented in Keras/Python**
+**Note that this Python code will not give the exact same results as our original Matlab code (although they are very similar), this is** **because things such as the optimizer we used in Matlab are not currently implemented in Keras/Python. I will add the original Matlab** **code as a branch for anyone interested. We started with the Matlab code and did our best to recreate in Python with Keras.**
 
 Required Packages:
 
