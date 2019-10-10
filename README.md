@@ -7,6 +7,6 @@ Required Packages:
 
 
 tfnnscore2layer.py contains the program and tfdata.mat has the preprocessed data. All you need to do to run the program is put tfnnscore2layer.py and tfdata.mat in the same folder and then in the command line "python3 tfnnscore2layer.py". 
-The outfile file showing the main results will be saved in the current directory as tfnnscoredata.txt.
+The out file showing the main results will be saved in the current directory as tfnnscoredata.txt.
 
 Training takes 1-2 hours on a VM with 8 vCPU's, 30gb memory and 1 NVIDIA Tesla P100 GPU.
